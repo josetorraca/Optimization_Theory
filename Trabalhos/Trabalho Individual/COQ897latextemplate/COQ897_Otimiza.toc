@@ -1,0 +1,15 @@
+\select@language {brazil}
+\contentsline {section}{Introdu\IeC {\c c}\IeC {\~a}o}{1}{Doc-Start}
+\contentsline {section}{\numberline {1}Modelagem}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Batelada Simples}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Batelada Alimentada}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Biorreator Cont\IeC {\'\i }nuo}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Perfus\IeC {\~a}o}{5}{subsection.1.4}
+\contentsline {section}{\numberline {2}Otimiza\IeC {\c c}\IeC {\~a}o}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Batelada simples}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Batelada alimentada}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Biorreator Continuo}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Perfus\IeC {\~a}o}{6}{subsection.2.4}
+\contentsline {section}{\numberline {3}Resultados e Discuss\IeC {\~a}o}{7}{section.3}
+\contentsline {section}{Agradecimentos}{7}{section*.15}
+\contentsfinish 
