@@ -1,2 +1,2 @@
-Works for the class EQE855
+Works for the class COQ897
 
