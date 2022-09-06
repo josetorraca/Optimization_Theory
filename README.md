@@ -1,2 +1,2 @@
-Works from EQE855
+Works for the class EQE855
 
